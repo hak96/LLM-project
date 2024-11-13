@@ -1,0 +1,9 @@
+List of files in the embeddings database:
+
+ECI-SHE7-SHE-Guide.pdf
+health-and-safety-risk-management.pdf
+hsg129.pdf
+l153.pdf
+the-business-case-for-engineering-in-health-and-safety.pdf
+https://www.iso.org/iso-45001-occupational-health-and-safety.html
+https://www.iso.org/standards/popular/iso-9000-family
